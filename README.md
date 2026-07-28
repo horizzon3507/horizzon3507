@@ -54,6 +54,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ### Experiments & Personal
 
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — A liminal Windows 7 desktop simulator (React + 7.css)
 - 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Rust experiments and systems ideas
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
