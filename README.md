@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 👋
 
-Building around **[Firefly Labs](https://github.com/fireflylabss)**, **[accend.now](https://accend.now)**, and **[Leafole Labs](https://github.com/Leafole-Labs)** — tools that feel like part of the system, not another layer of bloat.
+Building around **[Firefly Labs](https://github.com/fireflylabss)**, **[accend.now](https://accend.now)**, and **[Leafole Labs](https://github.com/Leafole-Labs)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -76,13 +76,3 @@ Building around **[Firefly Labs](https://github.com/fireflylabss)**, **[accend.n
 - **Agent-native workflows** — Figuring out how coding agents fit into real daily work
 - **Shipping the antidote to bloat** — Less dashboards, more tools you actually open every day
 - **Exploring around [accend.now](https://accend.now)** — And whatever else is brewing at Firefly / Leafole
-
-<details>
-<summary>Random Facts</summary>
-
-- Trying to find my place in this world — one local tool at a time
-- Powered by Linux (CachyOS), Bun, and too many terminal tabs
-- Soft spot for liminal aesthetics and old desktop UIs
-- Builds things for himself first, then shares them
-
-</details>
