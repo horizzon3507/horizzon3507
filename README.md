@@ -30,34 +30,47 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ## Start Here
 
 - 🖥️ **[optionOS](https://github.com/fireflylabss/optionOS)** — a local desktop environment without the usual bloat
-- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
+- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal powered by Ghostty's VT engine
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — minimal terminal file manager with Kitty image previews
+- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
 - 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — minimalist, high-performance audio player
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — write without distractions
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — unofficial AUR package for Synara
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
 
 ## Current Projects
 
-### optionLife
+### Desktop
+
+Local shell stack under Firefly's `option*` line.
 
 - 🖥️ **[optionOS](https://github.com/fireflylabss/optionOS)** — Most desktop shells are bloatware. This is the antidote.
-- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — Local black-and-white MPV CLI music player
+- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 + libadwaita terminal with Ghostty-style tiling
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
 
-### FireApps
+### Music
 
+- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — Local black-and-white MPV CLI music player
 - 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
+
+### Productivity
+
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
 - ✅ **[firetasks](https://github.com/fireflylabss/firetasks)** — Task management CLI/TUI with projects, tags, priorities
 - 📝 **[firenotes](https://github.com/fireflylabss/firenotes)** — Notes, kept local and simple
 - 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
 
-### Experiments & Personal
+### AI
 
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
+
+### Utilities
+
+- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
+
+### Experiments
+
 - 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — A liminal Windows 7 desktop simulator (React + 7.css)
 - 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Rust experiments and systems ideas
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 
 ## GitHub Activity
 
