@@ -45,6 +45,7 @@ Local shell stack under Firefly's `option*` line.
 
 - 🖥️ **[optionOS](https://github.com/fireflylabss/optionOS)** — Most desktop shells are bloatware. This is the antidote.
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 + libadwaita terminal with Ghostty-style tiling
+- 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
 
 ### Music
