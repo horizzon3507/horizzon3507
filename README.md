@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 👋
 
-📍 **Brazil** | 🖥️ **Local-first builder** | 🤖 **Agent-native tinkerer**
+📍 **Brazil** | 🖥️ **Local-first tools** | 🤖 **Agents & CLIs**
 
 Building around **[Firefly Labs](https://github.com/fireflylabss)**, **[accend.now](https://accend.now)**, and **[Leafole Labs](https://github.com/Leafole-Labs)** — tools that feel like part of the system, not another layer of bloat.
 
