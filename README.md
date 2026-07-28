@@ -66,6 +66,7 @@ Local shell stack under Firefly's `option*` line.
 
 ### Utilities
 
+- 📄 **[fat](https://github.com/fireflylabss/fat)** — Fast, syntax-aware cat for the terminal
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 
 ### Experiments
