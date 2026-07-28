@@ -1,6 +1,8 @@
 # Hi, I'm Gabriel 👋
 
-Building around **[Firefly Labs](https://github.com/fireflylabss)**, **[accend.now](https://accend.now)**, and **[Leafole Labs](https://github.com/Leafole-Labs)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
+Building around **[accend.now](https://accend.now)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
+
+**[Firefly Labs](https://github.com/fireflylabss)** · **[Leafole Labs](https://github.com/Leafole-Labs)** · **[Aency](https://github.com/aencyorganization)** · **[Basecase](https://github.com/Basecase-Labs)** · **[BrightierOS](https://github.com/BrightierOS)**
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
