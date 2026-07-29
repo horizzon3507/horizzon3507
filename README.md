@@ -29,10 +29,10 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ## Start Here
 
-- 🖥️ **[optionOS](https://github.com/fireflylabss/optionOS)** — a local desktop environment without the usual bloat
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal powered by Ghostty's VT engine
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — minimal terminal file manager with Kitty image previews
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
+- 📝 **[optionNotes](https://github.com/fireflylabss/optionNotes)** — focused local Markdown editor with onotes CLI
 - 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — minimalist, high-performance audio player
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — write without distractions
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
@@ -41,12 +41,12 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ### Desktop
 
-Local shell stack under Firefly's `option*` line.
+Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>/`).
 
-- 🖥️ **[optionOS](https://github.com/fireflylabss/optionOS)** — Most desktop shells are bloatware. This is the antidote.
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 + libadwaita terminal with Ghostty-style tiling
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
+- 📝 **[optionNotes](https://github.com/fireflylabss/optionNotes)** — Local Markdown editor with an `onotes` CLI
 
 ### Music
 
