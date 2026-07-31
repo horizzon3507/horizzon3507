@@ -29,7 +29,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ## Start Here
 
-- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal powered by Ghostty's VT engine
+- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — sidebar-first GTK4 terminal with tiling splits
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — minimal terminal file manager with Kitty image previews
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
 - 📝 **[optionNotes](https://github.com/fireflylabss/optionNotes)** — focused local Markdown editor with onotes CLI
@@ -43,7 +43,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>/`).
 
-- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 + libadwaita terminal with Ghostty-style tiling
+- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — Sidebar-first GTK4 terminal with tiling splits and Adwaita prefs
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
 - 📝 **[optionNotes](https://github.com/fireflylabss/optionNotes)** — Local Markdown editor with an `onotes` CLI
