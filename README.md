@@ -45,7 +45,6 @@ Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — Sidebar-first GTK4 terminal with tiling splits and Adwaita prefs
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
-- 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 
 ### Music
 
@@ -65,13 +64,9 @@ Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>
 
 ### Utilities
 
+- 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 - 📄 **[fat](https://github.com/fireflylabss/fat)** — Fast, syntax-aware cat for the terminal
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
-
-### Experiments
-
-- 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — A liminal Windows 7 desktop simulator (React + 7.css)
-- 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Rust experiments and systems ideas
 
 ## GitHub Activity
 
