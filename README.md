@@ -45,6 +45,7 @@ Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — Sidebar-first GTK4 terminal with tiling splits and Adwaita prefs
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
+- 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 
 ### Music
 
