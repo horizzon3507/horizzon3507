@@ -1,8 +1,8 @@
 <div align="center">
-  <table border="1">
+  <table border="1" width="75%">
     <tr>
       <td align="center">
-        <img src="hero.png" alt="Welcome to my GitHub — I'm Horizzon">
+        <img src="hero.png" width="100%" alt="Welcome to my GitHub — I'm Horizzon">
       </td>
     </tr>
   </table>
