@@ -48,8 +48,8 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ### Desktop
 
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — Sidebar-first GTK4 terminal with tiling splits and Adwaita prefs
-- 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
+- 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
 
 ### Music
 
@@ -65,9 +65,9 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ### Utilities
 
+- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 - 📄 **[fat](https://github.com/fireflylabss/fat)** — Fast, syntax-aware cat for the terminal
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 
 ### Deprecated
 
