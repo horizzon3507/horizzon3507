@@ -32,7 +32,6 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — sidebar-first GTK4 terminal with tiling splits
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — minimal terminal file manager with Kitty image previews
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
-- 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — minimalist, high-performance audio player
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — write without distractions
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
 
@@ -49,14 +48,10 @@ Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>
 ### Music
 
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — Local black-and-white MPV CLI music player
-- 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
 
 ### Productivity
 
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
-- ✅ **[firetasks](https://github.com/fireflylabss/firetasks)** — Task management CLI/TUI with projects, tags, priorities
-- 📝 **[firenotes](https://github.com/fireflylabss/firenotes)** — Notes, kept local and simple
-- 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
 
 ### AI
 
@@ -67,6 +62,19 @@ Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 - 📄 **[fat](https://github.com/fireflylabss/fat)** — Fast, syntax-aware cat for the terminal
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
+
+### Deprecated
+
+<details>
+<summary>Fire family (archived / no longer the focus)</summary>
+
+- 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
+- ✅ **[firetasks](https://github.com/fireflylabss/firetasks)** — Task management CLI/TUI with projects, tags, priorities
+- 📝 **[firenotes](https://github.com/fireflylabss/firenotes)** — Notes, kept local and simple
+- 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
+- 🔐 **[firekeep](https://github.com/fireflylabss/firekeep)** — Local password vault for the terminal
+
+</details>
 
 ## GitHub Activity
 
