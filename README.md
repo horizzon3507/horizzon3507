@@ -1,14 +1,4 @@
-<div align="center">
-  <table border="1" width="100%">
-    <tr>
-      <td align="center">
-        <img src="hero.png" width="100%" alt="Welcome to my GitHub — I'm Horizzon">
-      </td>
-    </tr>
-  </table>
-</div>
-
-# Hi, I'm Horizzon 👋
+# Hi, I'm Gabriel 👋
 
 Building around **[accend.now](https://accend.now)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
 
@@ -40,16 +30,12 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ## Start Here
 
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — sidebar-first GTK4 terminal with tiling splits
-- 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — minimal terminal file manager with Kitty image previews
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
-- ✍️ **[aire](https://github.com/fireflylabss/aire)** — write without distractions
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
 
 ## Current Projects
 
 ### Desktop
-
-Local-first `option*` tools under Firefly Labs (`io.option.*` / `~/.option/<app>/`).
 
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — Sidebar-first GTK4 terminal with tiling splits and Adwaita prefs
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
