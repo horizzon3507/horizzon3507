@@ -1,4 +1,14 @@
-# Hi, I'm Gabriel 👋
+<div align="center">
+  <table border="1" width="100%">
+    <tr>
+      <td align="center">
+        <img src="hero.png" width="100%" alt="Welcome to my GitHub — I'm Horizzon">
+      </td>
+    </tr>
+  </table>
+</div>
+
+# Hi, I'm Horizzon 👋
 
 Building around **[accend.now](https://accend.now)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
 
