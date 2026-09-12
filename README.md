@@ -27,7 +27,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-horizzon3507.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://horizzon3507.vercel.app)
+[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=vercel&logoColor=white)](https://hory.one)
 [![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
 
@@ -41,7 +41,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 - ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — the Option family CLI: dispatch, doctor, install
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — sidebar-first GTK4 terminal with tiling splits
-- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
+- 🎵 **[optionMusic](https://music.hory.one)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
 
 ## Current Projects
@@ -54,7 +54,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ### Music
 
-- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — Local black-and-white MPV CLI music player
+- 🎵 **[optionMusic](https://music.hory.one)** — Local black-and-white MPV CLI music player
 
 ### Productivity
 
