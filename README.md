@@ -39,6 +39,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ## Start Here
 
+- ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — the Option family CLI: dispatch, doctor, install
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — sidebar-first GTK4 terminal with tiling splits
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
@@ -58,6 +59,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ### Productivity
 
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
+- 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
 ### AI
 
@@ -65,9 +67,18 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ### Utilities
 
+- ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — Option family dispatcher: `opt <app>`, doctor, install, sys
+- 🚀 **[fly](https://github.com/fireflylabss/fly)** — Unified package manager for Firefly projects, in Rust
+- 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
-- 📄 **[fat](https://github.com/fireflylabss/fat)** — Fast, syntax-aware cat for the terminal
+- 🤖 **[optionSkills](https://github.com/fireflylabss/optionSkills)** — Agent skills for the Option family
+
+### Experiments & Personal
+
+- 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — Liminal Windows 7 desktop simulator (React + 7.css)
+- 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Ultra-modern TUI desktop in Rust
+- 🧩 **[roo-utils](https://github.com/horizzon3507/roo-utils)** — Small utilities for the Roo Code VSCode extension
 
 ### Deprecated
 
@@ -75,10 +86,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 <summary>Fire family (archived / no longer the focus)</summary>
 
 - 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
-- ✅ **[firetasks](https://github.com/fireflylabss/firetasks)** — Task management CLI/TUI with projects, tags, priorities
-- 📝 **[firenotes](https://github.com/fireflylabss/firenotes)** — Notes, kept local and simple
 - 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
-- 🔐 **[firekeep](https://github.com/fireflylabss/firekeep)** — Local password vault for the terminal
 
 </details>
 
