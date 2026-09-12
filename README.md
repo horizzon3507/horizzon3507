@@ -68,17 +68,10 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ### Utilities
 
 - ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — Option family dispatcher: `opt <app>`, doctor, install, sys
-- 🚀 **[fly](https://github.com/fireflylabss/fly)** — Unified package manager for Firefly projects, in Rust
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 - 🤖 **[optionSkills](https://github.com/fireflylabss/optionSkills)** — Agent skills for the Option family
-
-### Experiments & Personal
-
-- 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — Liminal Windows 7 desktop simulator (React + 7.css)
-- 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Ultra-modern TUI desktop in Rust
-- 🧩 **[roo-utils](https://github.com/horizzon3507/roo-utils)** — Small utilities for the Roo Code VSCode extension
 
 ### Deprecated
 
