@@ -1,13 +1,3 @@
-<div align="center">
-  <table border="1" width="75%">
-    <tr>
-      <td align="center">
-        <img src="trying-to-make-intelligence.jpg" width="100%" alt="trying to make intelligence">
-      </td>
-    </tr>
-  </table>
-</div>
-
 Building around **[accend.now](https://accend.now)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
@@ -22,18 +12,6 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## Connect
-
-[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=vercel&logoColor=white)](https://hory.one)
-[![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
-
-[![Firefly Labs](https://img.shields.io/badge/-Firefly_Labs-FF6B00?style=flat-square&logo=github&logoColor=white)](https://github.com/fireflylabss)
-[![Leafole Labs](https://img.shields.io/badge/-Leafole_Labs-2E7D32?style=flat-square&logo=github&logoColor=white)](https://github.com/Leafole-Labs)
-[![Aency](https://img.shields.io/badge/-Aency-6B4EFF?style=flat-square&logo=github&logoColor=white)](https://github.com/aencyorganization)
-[![Basecase](https://img.shields.io/badge/-Basecase-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/Basecase-Labs)
-[![BrightierOS](https://img.shields.io/badge/-BrightierOS-00BCD4?style=flat-square&logo=github&logoColor=white)](https://github.com/BrightierOS)
 
 ## Start Here
 
@@ -89,6 +67,18 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 </details>
 
+## Connect
+
+[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=vercel&logoColor=white)](https://hory.one)
+[![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
+
+[![Firefly Labs](https://img.shields.io/badge/-Firefly_Labs-FF6B00?style=flat-square&logo=github&logoColor=white)](https://github.com/fireflylabss)
+[![Leafole Labs](https://img.shields.io/badge/-Leafole_Labs-2E7D32?style=flat-square&logo=github&logoColor=white)](https://github.com/Leafole-Labs)
+[![Aency](https://img.shields.io/badge/-Aency-6B4EFF?style=flat-square&logo=github&logoColor=white)](https://github.com/aencyorganization)
+[![Basecase](https://img.shields.io/badge/-Basecase-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/Basecase-Labs)
+[![BrightierOS](https://img.shields.io/badge/-BrightierOS-00BCD4?style=flat-square&logo=github&logoColor=white)](https://github.com/BrightierOS)
+
 ## GitHub Activity
 
 <picture>
@@ -112,3 +102,13 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - **Agent-native workflows** — Figuring out how coding agents fit into real daily work
 - **Shipping the antidote to bloat** — Less dashboards, more tools you actually open every day
 - **Exploring around [accend.now](https://accend.now)** — And whatever else is brewing at Firefly / Leafole
+
+<div align="center">
+  <table border="1" width="75%">
+    <tr>
+      <td align="center">
+        <img src="trying-to-make-intelligence.jpg" width="100%" alt="trying to make intelligence">
+      </td>
+    </tr>
+  </table>
+</div>
