@@ -17,10 +17,10 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ## Start Here
 
-- 🤖 **[SkillsByHory](https://github.com/fireflylabss/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
+- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
 - 🎵 **[optionMusic](https://music.hory.one)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
-- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
+- 🧩 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 
 ## Current Projects
 
@@ -50,7 +50,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
-- 🤖 **[SkillsByHory](https://github.com/fireflylabss/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
+- 🧩 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 
 ### Experiments & Personal
 
