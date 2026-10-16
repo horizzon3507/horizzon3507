@@ -1,3 +1,5 @@
+# Horizzon
+
 Building around **[accend.now](https://accend.now)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
@@ -15,7 +17,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ## Start Here
 
-- ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — the Option family CLI: dispatch, doctor, install
+- 🤖 **[SkillsByHory](https://github.com/fireflylabss/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 - 🎵 **[optionMusic](https://music.hory.one)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
@@ -48,7 +50,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
-- 🤖 **[optionSkills](https://github.com/fireflylabss/optionSkills)** — Agent skills for the Option family
+- 🤖 **[SkillsByHory](https://github.com/fireflylabss/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 
 ### Experiments & Personal
 
