@@ -59,7 +59,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ### Productivity
 
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
-- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract-website-lovat.vercel.app)
+- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract.hory.one)
 - 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
 ### AI
