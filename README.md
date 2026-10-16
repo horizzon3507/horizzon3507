@@ -8,8 +8,6 @@
   </table>
 </div>
 
-# Hi, I'm Horizzon 👋
-
 Building around **[accend.now](https://accend.now)** — tools that feel like part of the system, not another layer of bloat. Powered by Linux (CachyOS), Bun, and too many terminal tabs. Soft spot for liminal aesthetics and old desktop UIs. Builds things for himself first, then shares them.
 
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
@@ -43,7 +41,6 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - 🎵 **[optionMusic](https://music.hory.one)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
-- 🪟 **[AeroRebirth](https://aero-rebirth.vercel.app)** — liminal Windows 7 desktop simulator in the browser
 
 ## Current Projects
 
@@ -77,7 +74,6 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 
 ### Experiments & Personal
 
-- 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — Liminal Windows 7 desktop simulator (React + 7.css)
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Ultra-modern TUI desktop in Rust
 
@@ -116,3 +112,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - **Agent-native workflows** — Figuring out how coding agents fit into real daily work
 - **Shipping the antidote to bloat** — Less dashboards, more tools you actually open every day
 - **Exploring around [accend.now](https://accend.now)** — And whatever else is brewing at Firefly / Leafole
+
+<div align="center">
+  <img src="trying-to-make-intelligence.jpg" width="100%" alt="trying to make intelligence" />
+</div>
