@@ -40,17 +40,17 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ## Start Here
 
 - ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — the Option family CLI: dispatch, doctor, install
-- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — sidebar-first GTK4 terminal with tiling splits
 - 🎵 **[optionMusic](https://music.hory.one)** — black-and-white MPV CLI music player
-- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
+- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
+- 🪟 **[AeroRebirth](https://aero-rebirth.vercel.app)** — liminal Windows 7 desktop simulator in the browser
 
 ## Current Projects
 
 ### Desktop
 
-- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — Sidebar-first GTK4 terminal with tiling splits and Adwaita prefs
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
-- 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — A small local-first shell written in Rust
+- 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
 
 ### Music
 
@@ -59,6 +59,7 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ### Productivity
 
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
+- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract-website-lovat.vercel.app)
 - 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
 ### AI
@@ -68,16 +69,25 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 ### Utilities
 
 - ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — Option family dispatcher: `opt <app>`, doctor, install, sys
+- 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 - 🤖 **[optionSkills](https://github.com/fireflylabss/optionSkills)** — Agent skills for the Option family
 
+### Experiments & Personal
+
+- 🪟 **[AeroRebirth](https://github.com/horizzon3507/AeroRebirth)** — Liminal Windows 7 desktop simulator (React + 7.css)
+- 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
+- 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Ultra-modern TUI desktop in Rust
+
 ### Deprecated
 
 <details>
-<summary>Fire family (archived / no longer the focus)</summary>
+<summary>Superseded & archived (Fire family, optionTerm, opsh)</summary>
 
+- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal (superseded)
+- 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — Small local-first shell in Rust (archived)
 - 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
 - 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
 
