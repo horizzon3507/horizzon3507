@@ -73,11 +73,12 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 [![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
 
+[![Aspas Labs](https://img.shields.io/badge/-Aspas_Labs-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/aspas-labs)
 [![Firefly Labs](https://img.shields.io/badge/-Firefly_Labs-FF6B00?style=flat-square&logo=github&logoColor=white)](https://github.com/fireflylabss)
 [![Leafole Labs](https://img.shields.io/badge/-Leafole_Labs-2E7D32?style=flat-square&logo=github&logoColor=white)](https://github.com/Leafole-Labs)
 [![Aency](https://img.shields.io/badge/-Aency-6B4EFF?style=flat-square&logo=github&logoColor=white)](https://github.com/aencyorganization)
-[![Basecase](https://img.shields.io/badge/-Basecase-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/Basecase-Labs)
-[![BrightierOS](https://img.shields.io/badge/-BrightierOS-00BCD4?style=flat-square&logo=github&logoColor=white)](https://github.com/BrightierOS)
+[![Basecase Labs](https://img.shields.io/badge/-Basecase_Labs-1565C0?style=flat-square&logo=github&logoColor=white)](https://github.com/Basecase-Labs)
+[![Blink Team](https://img.shields.io/badge/-Blink_Team-E91E63?style=flat-square&logo=github&logoColor=white)](https://github.com/BlinkOSTeam)
 
 ## GitHub Activity
 
