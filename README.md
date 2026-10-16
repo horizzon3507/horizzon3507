@@ -37,6 +37,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract.hory.one)
+- 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
 ### Utilities
