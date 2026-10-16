@@ -2,7 +2,7 @@
   <table border="1" width="75%">
     <tr>
       <td align="center">
-        <img src="hero-v2.png" width="100%" alt="Welcome to my GitHub — I'm Horizzon">
+        <img src="trying-to-make-intelligence.jpg" width="100%" alt="trying to make intelligence">
       </td>
     </tr>
   </table>
@@ -112,7 +112,3 @@ Building around **[accend.now](https://accend.now)** — tools that feel like pa
 - **Agent-native workflows** — Figuring out how coding agents fit into real daily work
 - **Shipping the antidote to bloat** — Less dashboards, more tools you actually open every day
 - **Exploring around [accend.now](https://accend.now)** — And whatever else is brewing at Firefly / Leafole
-
-<div align="center">
-  <img src="trying-to-make-intelligence.jpg" width="100%" alt="trying to make intelligence" />
-</div>
