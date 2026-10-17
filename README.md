@@ -20,7 +20,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
 - 🎵 **[optionMusic](https://music.hory.one)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
-- 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
+- 🧹 **[tend](https://github.com/horizzon3507/tend)** — The caretaker of your machine: scans dead weight, cleans safely, backs up dotfiles
 
 ## Current Projects
 
@@ -28,6 +28,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
 - 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
+- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 
 ### Music
 
@@ -49,7 +50,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 
 ### Deprecated
