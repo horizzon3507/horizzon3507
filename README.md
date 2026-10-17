@@ -37,21 +37,19 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract.hory.one)
-- 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
 ### Utilities
 
-- ⚙️ **[opt](https://github.com/fireflylabss/optioncli)** — Option family dispatcher: `opt <app>`, doctor, install, sys
+- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
-- 🧰 **[optionSDK](https://github.com/fireflylabss/optionSDK)** — Shared paths and identity for Option family apps
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 
 ### Experiments & Personal
 
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
-- 🕳️ **[v0id](https://github.com/horizzon3507/v0id)** — Ultra-modern TUI desktop in Rust
+- 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 
