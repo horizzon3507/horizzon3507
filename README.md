@@ -35,7 +35,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Productivity
 
-- ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract.hory.one)
 - 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
@@ -59,6 +58,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 <summary>Superseded & archived (Fire family, optionTerm, opsh)</summary>
 
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal (superseded)
+- ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions (deprecated)
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — Small local-first shell in Rust (archived)
 - 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
 - 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
