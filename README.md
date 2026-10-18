@@ -87,27 +87,24 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## GitHub Activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/horizzon3507/horizzon3507/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/horizzon3507/horizzon3507/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/horizzon3507/horizzon3507/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-<br>
-
 <div align="center">
-  <table border="1" width="75%">
+  <table border="1" width="100%">
     <tr>
       <td align="center">
-        <img src="trying-to-make-intelligence.jpg" width="100%" alt="trying to make intelligence">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/horizzon3507/horizzon3507/output/github-contribution-grid-snake-dark.svg"
+          />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/horizzon3507/horizzon3507/output/github-contribution-grid-snake.svg"
+          />
+          <img
+            alt="GitHub contribution snake animation"
+            src="https://raw.githubusercontent.com/horizzon3507/horizzon3507/output/github-contribution-grid-snake.svg"
+          />
+        </picture>
       </td>
     </tr>
   </table>
