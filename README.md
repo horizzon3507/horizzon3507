@@ -72,8 +72,8 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 [![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=vercel&logoColor=white)](https://hory.one)
 [![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
-[![Fluxer](https://img.shields.io/badge/-gabriel%230001-5865F2?style=flat-square&logo=fluxer&logoColor=white)](https://fluxer.app)
-[![Discord](https://img.shields.io/badge/-horizzon3507-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Fluxer](https://img.shields.io/badge/-gabriel%230001-5865F2?style=flat-square&logo=fluxer&logoColor=white)](https://fluxer.app/users/1473035660161241245)
+[![Discord](https://img.shields.io/badge/-horizzon3507-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1011380383801155614)
 
 [![Aspas Labs](https://img.shields.io/badge/-Aspas_Labs-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/aspas-labs)
 [![Firefly Labs](https://img.shields.io/badge/-Firefly_Labs-FF6B00?style=flat-square&logo=github&logoColor=white)](https://github.com/fireflylabss)
