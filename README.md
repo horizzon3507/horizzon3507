@@ -72,7 +72,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 [![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=vercel&logoColor=white)](https://hory.one)
 [![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
-[![Fluxer](https://img.shields.io/badge/-gabriel%230001-5865F2?style=flat-square&logo=discord&logoColor=white)](https://fluxer.app)
+[![Fluxer](https://img.shields.io/badge/-gabriel%230001-5865F2?style=flat-square&logo=fluxer&logoColor=white)](https://fluxer.app)
 [![Discord](https://img.shields.io/badge/-horizzon3507-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 [![Aspas Labs](https://img.shields.io/badge/-Aspas_Labs-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/aspas-labs)
