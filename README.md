@@ -56,6 +56,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
+- 🎨 **[optionIcons](https://github.com/horizzon3507/optionIcons)** — Web icon composer: design OS 26 liquid glass icons in the browser · [live](https://liquid-composer.vercel.app)
 
 ### Deprecated
 
