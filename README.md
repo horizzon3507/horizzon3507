@@ -52,6 +52,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Experiments & Personal
 
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
+- 🤖 **[synara](https://github.com/horizzon3507/synara)** — The best place to build with your AI subs · [trysynara.com](https://trysynara.com)
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
