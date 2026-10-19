@@ -46,6 +46,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
+- 🧱 **[Flush](https://github.com/horizzon3507/Flush)** — Rust framework for Fluxer bots: Gateway WS + REST + command router, parity with @fluxerjs/core
 - ⌨️ **[glyphic](https://github.com/horizzon3507/glyphic)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML (live at horizzon3507.github.io/glyphic)
 
 ### Experiments & Personal
