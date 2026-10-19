@@ -46,7 +46,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
-- 🖥️ **[glyphic](https://github.com/horizzon3507/glyphic)** — Turn images into retro CRT ASCII art: paste, zoom, export as PNG/SVG/TXT/HTML · [site](https://horizzon3507.github.io/glyphic/)
+- ⌨️ **[glyphic](https://github.com/horizzon3507/glyphic)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML (live at horizzon3507.github.io/glyphic)
 
 ### Experiments & Personal
 
