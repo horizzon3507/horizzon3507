@@ -38,7 +38,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Productivity
 
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor · [site](https://abstract.hory.one)
-- 📅 **[optionCalendar](https://github.com/fireflylabss/optionCalendar)** — Minimal local calendar, one ICS file on disk
 
 ### Utilities
 
