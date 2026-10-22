@@ -50,6 +50,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Experiments & Personal
 
+- 🍊 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
