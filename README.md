@@ -41,6 +41,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Utilities
 
+- 📁 **[handoff](https://github.com/horizzon3507/handoff)** — Send files between devices over local Wi-Fi
 - 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 📜 **[eterscript](https://github.com/fireflylabss/eterscript)** — BDFD-style scripting language for PC automation
