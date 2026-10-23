@@ -27,6 +27,12 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## Current Projects
 
+### Libs & Packages
+
+- 🍋 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
+- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
+- 📦 **[fluxter-aur](https://github.com/horizzon3507/fluxter-aur)** — Unofficial AUR package for fluxter, the TUI Fluxer client
+
 ### Desktop
 
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
@@ -50,14 +56,8 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 - ⌨️ **[glyphic](https://glyphic.hory.one)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML
 
-### Packaging
-
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
-- 📦 **[fluxter-aur](https://github.com/horizzon3507/fluxter-aur)** — Unofficial AUR package for fluxter, the TUI Fluxer client
-
 ### Experiments & Personal
 
-- 🍊 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
