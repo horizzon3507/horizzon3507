@@ -52,6 +52,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
 - 🧱 **[Flush](https://github.com/horizzon3507/Flush)** — Rust framework for Fluxer bots: Gateway WS + REST + command router, parity with @fluxerjs/core
+- 🗂️ **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
 
 ### Deprecated
 
