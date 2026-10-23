@@ -15,6 +15,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
+- ⌨️ **[glyphic](https://glyphic.hory.one)** — terminal-style image→ASCII studio with a CRT viewport and PNG/SVG/TXT/HTML exports
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — highlights errors, secrets, and stack traces in terminal output
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
 - 🧹 **[tend](https://github.com/horizzon3507/tend)** — The caretaker of your machine: scans dead weight, cleans safely, backs up dotfiles
