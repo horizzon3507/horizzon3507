@@ -25,7 +25,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
 - 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 
 ### Music
 
@@ -43,6 +42,11 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 - ⌨️ **[glyphic](https://glyphic.hory.one)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML
+
+### Packaging
+
+- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
+- 📦 **[fluxter-aur](https://github.com/horizzon3507/fluxter-aur)** — Unofficial AUR package for fluxter, the TUI Fluxer client
 
 ### Experiments & Personal
 
