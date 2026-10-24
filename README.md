@@ -40,13 +40,16 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor
 
-### Utilities
+### Terminal Utilities
 
-- 📁 **[handoff](https://github.com/horizzon3507/handoff)** — Send files between devices over local Wi-Fi
 - 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
+
+### Utilities
+
+- 📁 **[handoff](https://github.com/horizzon3507/handoff)** — Send files between devices over local Wi-Fi
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 - ⌨️ **[glyphic](https://glyphic.hory.one)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML
 
