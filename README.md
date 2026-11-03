@@ -57,9 +57,9 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Libs & Packages
 
 - 🍋 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
-- 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
-- 📦 **[fluxter-aur](https://github.com/horizzon3507/fluxter-aur)** — Unofficial AUR package for fluxter, the TUI Fluxer client
-- 🧊 **[tardigrade](https://aur.archlinux.org/packages/tardigrade)** — Unofficial AUR package for tardigrade, the self-healing terminal creature
+- 📦 **[synara-aur](https://aur.archlinux.org/packages/synara)** — Unofficial AUR package for Synara (AppImage)
+- 📦 **[fluxter-aur](https://aur.archlinux.org/packages/fluxter)** — Unofficial AUR package for fluxter, the TUI Fluxer client
+- 📦 **[tardigrade-aur](https://aur.archlinux.org/packages/tardigrade)** — Unofficial AUR package for tardigrade, the self-healing terminal creature
 
 ### Experiments & Personal
 
