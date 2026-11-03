@@ -57,6 +57,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Libs & Packages
 
 - 🍋 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
+- 🧱 **[Flush](https://github.com/horizzon3507/Flush)** — Rust framework for Fluxer bots: Gateway WS + REST + command router, parity with @fluxerjs/core
 - 📦 **[synara-aur](https://aur.archlinux.org/packages/synara)** — Unofficial AUR package for [Synara](https://trysynara.com) (AppImage)
 - 📦 **[fluxter-aur](https://aur.archlinux.org/packages/fluxter)** — Unofficial AUR package for [fluxter](https://github.com/AIVirtuoso/fluxter), the TUI Fluxer client
 - 📦 **[tardigrade-aur](https://aur.archlinux.org/packages/tardigrade)** — Unofficial AUR package for [tardigrade](https://github.com/smoothyy3/tardigrade), the self-healing terminal creature
@@ -66,7 +67,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
-- 🧱 **[Flush](https://github.com/horizzon3507/Flush)** — Rust framework for Fluxer bots: Gateway WS + REST + command router, parity with @fluxerjs/core
 
 ### Public Projects
 
