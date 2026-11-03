@@ -42,9 +42,9 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Terminal Utilities
 
-- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
+- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles · [AUR](https://aur.archlinux.org/packages/tend)
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
-- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`) · [AUR](https://aur.archlinux.org/packages/usagenometer)
 - 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 - 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — Pulse-check every local repo: dirty trees, unpushed commits, stale branches, missing remotes
 
@@ -59,6 +59,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🍋 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
 - 📦 **[synara-aur](https://github.com/horizzon3507/synara-aur)** — Unofficial AUR package for Synara (AppImage)
 - 📦 **[fluxter-aur](https://github.com/horizzon3507/fluxter-aur)** — Unofficial AUR package for fluxter, the TUI Fluxer client
+- 🧊 **[tardigrade](https://aur.archlinux.org/packages/tardigrade)** — Unofficial AUR package for tardigrade, the self-healing terminal creature
 
 ### Experiments & Personal
 
