@@ -52,6 +52,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📁 **[handoff](https://github.com/horizzon3507/handoff)** — Send files between devices over local Wi-Fi
 - 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: versioning, releases, AUR, local-first
 - ⌨️ **[glyphic](https://glyphic.hory.one)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML
+- 🧭 **[exitq](https://github.com/horizzon3507/exitq)** — Extract CopyQ backups into ordered files
 
 ### Libs & Packages
 
@@ -62,7 +63,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Experiments & Personal
 
-- 🧭 **[exitq](https://github.com/horizzon3507/exitq)** — Extract CopyQ backups into ordered files
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
