@@ -41,9 +41,9 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Terminal Utilities
 
-- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles · [AUR](https://aur.archlinux.org/packages/tend)
+- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
-- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`) · [AUR](https://aur.archlinux.org/packages/usagenometer)
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
 - 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — Pulse-check every local repo: dirty trees, unpushed commits, stale branches, missing remotes
 
