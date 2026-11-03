@@ -24,7 +24,6 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — highlights errors, secrets, and stack traces in terminal output
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
 - 🧹 **[tend](https://github.com/horizzon3507/tend)** — The caretaker of your machine: scans dead weight, cleans safely, backs up dotfiles
-- 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — What did you forget? Flags dirty trees, unpushed commits, stale branches, missing remotes
 
 ## Current Projects
 
@@ -76,13 +75,11 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Deprecated
 
 <details>
-<summary>Superseded & archived (Fire family, optionTerm, opsh)</summary>
+<summary>Superseded & archived (optionTerm, aire, opsh)</summary>
 
 - ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal (superseded)
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions (deprecated)
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — Small local-first shell in Rust (archived)
-- 🔥 **[firemusic](https://github.com/fireflylabss/firemusic)** — Minimalist high-performance music & audio player
-- 📅 **[firecalendar](https://github.com/fireflylabss/firecalendar)** — Calendar without the dashboard theater
 
 </details>
 
