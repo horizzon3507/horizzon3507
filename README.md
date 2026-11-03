@@ -24,6 +24,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — highlights errors, secrets, and stack traces in terminal output
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
 - 🧹 **[tend](https://github.com/horizzon3507/tend)** — The caretaker of your machine: scans dead weight, cleans safely, backs up dotfiles
+- 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — What did you forget? Flags dirty trees, unpushed commits, stale branches, missing remotes
 
 ## Current Projects
 
@@ -46,6 +47,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🎙️ **[stfu](https://github.com/fireflylabss/stfu)** — Kill switch for all microphones: Rust CLI + GNOME quick-settings toggle
+- 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — Pulse-check every local repo: dirty trees, unpushed commits, stale branches, missing remotes
 
 ### Utilities
 
