@@ -34,6 +34,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Music
 
 - 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — Local black-and-white MPV CLI music player
+- 🎮 **[fragment](https://github.com/horizzon3507/fragment)** — Guess the song from a snippet that keeps growing — local music, terminal game
 
 ### Terminal Utilities
 
