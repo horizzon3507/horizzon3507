@@ -18,7 +18,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ## Start Here
 
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
-- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — black-and-white MPV CLI music player
+- 🎵 **[stillmusic](https://github.com/horizzon3507/stillmusic)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
 
 ## Current Projects
@@ -30,7 +30,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Music
 
-- 🎵 **[optionMusic](https://github.com/fireflylabss/optionMusic)** — Local black-and-white MPV CLI music player
+- 🎵 **[stillmusic](https://github.com/horizzon3507/stillmusic)** — Local black-and-white MPV CLI music player
 - 🎮 **[fragment](https://github.com/horizzon3507/fragment)** — Guess the song from a snippet that keeps growing — local music, terminal game
 
 ### Terminal Utilities
