@@ -20,14 +20,14 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — native Markdown notes editor built on Rust + GPUI
 - 🎵 **[stillmusic](https://github.com/horizzon3507/stillmusic)** — black-and-white MPV CLI music player
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (+ beta GNOME Shell companion)
-- 🤖 **[ace](https://github.com/horizzon3507/ace)** — multifunctional Fluxer bot built on Yuzuha
+- <img src="ace-emoji.png" width="18" alt="ace"> **[ace](https://github.com/horizzon3507/ace)** — all-in-one Fluxer bot: moderation, info cards, per-server prefix
 
 ## Current Projects
 
 ### Public Projects
 
 - 🗂️ **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
-- 🤖 **[ace](https://github.com/horizzon3507/ace)** — Fluxer bot: utilities, moderation, per-server prefix (built on Yuzuha)
+- <img src="ace-emoji.png" width="18" alt="ace"> **[ace](https://github.com/horizzon3507/ace)** — all-in-one Fluxer bot: moderation, info cards, per-server prefix
 
 ### Music
 
