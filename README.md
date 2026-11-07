@@ -58,16 +58,16 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📦 **[fluxter-aur](https://aur.archlinux.org/packages/fluxter)** — Unofficial AUR package for [fluxter](https://github.com/AIVirtuoso/fluxter), the TUI Fluxer client
 - 📦 **[tardigrade-aur](https://aur.archlinux.org/packages/tardigrade)** — Unofficial AUR package for [tardigrade](https://github.com/smoothyy3/tardigrade), the self-healing terminal creature
 
+### Desktop
+
+- 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
+- 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
+
 ### Experiments & Personal
 
 - 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
-
-### Desktop
-
-- 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
-- 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
 
 ### Deprecated
 
