@@ -24,10 +24,10 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## Current Projects
 
-### Desktop
+### Public Projects
 
-- 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
-- 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
+- 🗂️ **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
+- 🤖 **[ace](https://github.com/horizzon3507/ace)** — Fluxer bot: utilities, moderation, per-server prefix (built on Yuzuha)
 
 ### Music
 
@@ -64,10 +64,10 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📝 **[HoryNotes](https://github.com/horizzon3507/HoryNotes)** — Floating ✦ quick-note bubble for Linux: local-first, PyQt6
 - 🏷️ **[dominômetro](https://dominios.hory.one)** — Domain price comparator for Brazil — live RDAP/DNS availability, IOF + câmbio baked in
 
-### Public Projects
+### Desktop
 
-- 🗂️ **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
-- 🤖 **[ace](https://github.com/horizzon3507/ace)** — Fluxer bot: utilities, moderation, per-server prefix (built on Yuzuha)
+- 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
+- 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
 
 ### Deprecated
 
