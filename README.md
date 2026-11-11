@@ -41,6 +41,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI for PipeWire/WirePlumber
 - 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — Pulse-check every local repo: dirty trees, unpushed commits, stale branches, missing remotes
+- 🔗 **[skillsync](https://github.com/horizzon3507/skillsync)** — One skill store, symlinked into every agent harness
 
 ### Utilities
 
