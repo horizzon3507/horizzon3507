@@ -26,7 +26,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Public Projects
 
-- 🗂️ **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
+- <img src="fluboard-favicon.svg" width="18" align="middle" alt="fluboard"> **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
 - <img src="ace-emoji.png" width="18" align="middle" alt="ace"> **[ace](https://github.com/horizzon3507/ace)** — all-in-one Fluxer bot: moderation, info cards, per-server prefix
 
 ### Music
