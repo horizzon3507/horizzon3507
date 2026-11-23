@@ -37,14 +37,20 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Terminal Utilities
 
 - <img src="https://raw.githubusercontent.com/horizzon3507/scaffold/main/assets/logo.svg" width="18" align="middle" alt="scaffold"> **[scaffold](https://github.com/horizzon3507/scaffold)** — Spin up new projects from opinionated presets, zero-dep Rust CLI
-- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
-- 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
-- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
-- 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI for PipeWire/WirePlumber
 - 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — Pulse-check every local repo: dirty trees, unpushed commits, stale branches, missing remotes
 - 🔗 **[skillsync](https://github.com/horizzon3507/skillsync)** — One skill store, symlinked into every agent harness
 - 🚩 **[nationfetch](https://github.com/horizzon3507/nationfetch)** — neofetch-style country info in the terminal: flag art side-by-side with data, in Rust
 - 🔑 **[agk-reborn](https://github.com/horizzon3507/agk-reborn)** — Multi-account manager for the Antigravity CLI: capture, switch, and monitor Google accounts
+
+### Maintenance
+
+- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
+- 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI for PipeWire/WirePlumber
+
+### Observability
+
+- 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 
 ### Utilities
 
