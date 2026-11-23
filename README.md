@@ -36,8 +36,7 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ### Terminal Utilities
 
-- 🧭 **[scaffold](https://github.com/horizzon3507/scaffold)** — Spin up new projects from opinionated presets, zero-dep Rust CLI
-- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
+- <img src="https://raw.githubusercontent.com/horizzon3507/scaffold/main/assets/logo.svg" width="18" align="middle" alt="scaffold"> **[scaffold](https://github.com/horizzon3507/scaffold)** — Spin up new projects from opinionated presets, zero-dep Rust CLI- 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
 - 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
 - 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
 - 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI for PipeWire/WirePlumber
