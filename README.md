@@ -92,13 +92,13 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## Connect
 
-[![The Stupid Team](https://img.shields.io/badge/-The_Stupid_Team-D9D9D9?style=flat-square&logo=github&logoColor=black)](https://thestupid.team)
-[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=safari&logoColor=white)](https://hory.one)
+[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square)](https://hory.one)
 [![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
 [![Fluxer](https://img.shields.io/badge/-gabriel%230001-5865F2?style=flat-square&logo=fluxer&logoColor=white)](https://fluxer.app)
 [![Discord](https://img.shields.io/badge/-horizzon3507-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1011380383801155614)
 
+[![The Stupid Team](https://img.shields.io/badge/-The_Stupid_Team-D9D9D9?style=flat-square&logo=github&logoColor=black)](https://thestupid.team)
 [![Aspas Labs](https://img.shields.io/badge/-Aspas_Labs-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/aspas-labs)
 [![Firefly Labs](https://img.shields.io/badge/-Firefly_Labs-FF6B00?style=flat-square&logo=github&logoColor=white)](https://github.com/fireflylabss)
 [![Leafole Labs](https://img.shields.io/badge/-Leafole_Labs-2E7D32?style=flat-square&logo=github&logoColor=white)](https://github.com/Leafole-Labs)
