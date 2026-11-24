@@ -92,7 +92,8 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=vercel&logoColor=white)](https://hory.one)
+[![The Stupid Team](https://img.shields.io/badge/-The_Stupid_Team-D9D9D9?style=flat-square&logo=github&logoColor=black)](https://thestupid.team)
+[![Website](https://img.shields.io/badge/-hory.one-000000?style=flat-square&logo=safari&logoColor=white)](https://hory.one)
 [![X](https://img.shields.io/badge/-@horizzon3507-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/horizzon3507)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizzon3507)
 [![Fluxer](https://img.shields.io/badge/-gabriel%230001-5865F2?style=flat-square&logo=fluxer&logoColor=white)](https://fluxer.app)
@@ -136,3 +137,4 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
     </tr>
   </table>
 </div>
+
