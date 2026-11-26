@@ -24,54 +24,43 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## Current Projects
 
-### Public Projects
+### Fluxer Ecosystem
 
-- <img src="fluboard-favicon.svg" width="18" align="middle" alt="fluboard"> **[fluboard](https://fluboard.hory.one)** — Catalog of Brazilian Fluxer communities and bots
-- <img src="ace-emoji.png" width="18" align="middle" alt="ace"> **[ace](https://github.com/horizzon3507/ace)** — all-in-one Fluxer bot: moderation, info cards, per-server prefix
+- <img src="fluboard-favicon.svg" width="18" align="middle" alt="fluboard"> **[fluboard](https://fluboard.hory.one)** `Web` — Catalog of Brazilian Fluxer communities and bots
+- <img src="ace-emoji.png" width="18" align="middle" alt="ace"> **[ace](https://github.com/horizzon3507/ace)** `Bot` — all-in-one Fluxer bot: moderation, info cards, per-server prefix
+- 🍋 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** `TS` — TypeScript framework for Fluxer bots with typed commands and optional scripts
+- 🧱 **[Flush](https://github.com/horizzon3507/Flush)** `Rust` — Rust framework for Fluxer bots: Gateway WS + REST + command router, parity with @fluxerjs/core
 
-### Music
+### Apps & Media
 
-- 🎵 **[stillmusic](https://github.com/horizzon3507/stillmusic)** — Local black-and-white MPV CLI music player
-- 🎮 **[fragment](https://github.com/horizzon3507/fragment)** — Guess the song from a snippet that keeps growing — local music, terminal game
+- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** `GUI` — Native Rust + GPUI Markdown notes editor
+- 🎵 **[stillmusic](https://github.com/horizzon3507/stillmusic)** `CLI` — Local black-and-white MPV music player
+- 🎮 **[fragment](https://github.com/horizzon3507/fragment)** `CLI` — Guess the song from a snippet that keeps growing — local music, terminal game
+- ⌨️ **[glyphic](https://glyphic.hory.one)** `Web` — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML
 
-### Terminal Utilities
+### Dev & Agent Workflow
 
 - <img src="https://raw.githubusercontent.com/horizzon3507/scaffold/main/assets/logo.svg" width="18" align="middle" alt="scaffold"> **[scaffold](https://github.com/horizzon3507/scaffold)** — Spin up new projects from opinionated presets, zero-dep Rust CLI
 - 🩺 **[gitpulse](https://github.com/horizzon3507/gitpulse)** — Pulse-check every local repo: dirty trees, unpushed commits, stale branches, missing remotes
 - 🔗 **[skillsync](https://github.com/horizzon3507/skillsync)** — One skill store, symlinked into every agent harness
-- 🚩 **[nationfetch](https://github.com/horizzon3507/nationfetch)** — neofetch-style country info in the terminal: flag art side-by-side with data, in Rust
-- 🔑 **[agk-reborn](https://github.com/horizzon3507/agk-reborn)** — Multi-account manager for the Antigravity CLI: capture, switch, and monitor Google accounts
+- 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: atomic commits, stacked PRs, scoped issues, versioning
+- 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
+- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
+- 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
 
-### Maintenance
+### Linux / System Utilities
 
 - 🧹 **[tend](https://github.com/horizzon3507/tend)** — Tends your machine: scans dead weight, cleans safely, backs up dotfiles
 - 🎙️ **[stfu](https://github.com/horizzon3507/stfu)** — Kill switch for all microphones: Rust CLI for PipeWire/WirePlumber
-- 🪦 **[github-graveyard](https://github.com/horizzon3507/github-graveyard)** — Finds abandoned open-source projects worth reviving
-
-### Observability
-
-- 🔦 **[flashlog](https://github.com/horizzon3507/flashlog)** — Highlights errors, secrets, and stack traces in terminal output
-- 📊 **[usagenometer](https://github.com/horizzon3507/usagenometer)** — AI usage meters in the terminal (`usg`)
-
-### Utilities
-
 - 🔄 **[handoff](https://github.com/horizzon3507/handoff)** — Send files between devices over local Wi-Fi
-- 🪄 **[SkillsByHory](https://github.com/horizzon3507/SkillsByHory)** — Agent skills by Hory: atomic commits, stacked PRs, scoped issues, versioning
-- ⌨️ **[glyphic](https://glyphic.hory.one)** — Terminal-style image→ASCII studio: CRT viewport with zoom/pan, color mode, exports to PNG/SVG/TXT/HTML
-- ✍️ **[abstract](https://github.com/fireflylabss/abstract)** — Native Rust + GPUI Markdown notes editor
+- 🚩 **[nationfetch](https://github.com/horizzon3507/nationfetch)** — neofetch-style country info in the terminal: flag art side-by-side with data, in Rust
+- 🔑 **[agk-reborn](https://github.com/horizzon3507/agk-reborn)** — Multi-account manager for the Antigravity CLI: capture, switch, and monitor Google accounts
 
-### Libs & Packages
+### AUR Packages
 
-- 🍋 **[Yuzuha](https://github.com/horizzon3507/yuzuha)** — TypeScript framework for Fluxer bots with typed commands and optional scripts
-- 🧱 **[Flush](https://github.com/horizzon3507/Flush)** — Rust framework for Fluxer bots: Gateway WS + REST + command router, parity with @fluxerjs/core
 - 📦 **[synara-aur](https://aur.archlinux.org/packages/synara)** — Unofficial AUR package for [Synara](https://trysynara.com) (AppImage)
 - 📦 **[fluxter-aur](https://aur.archlinux.org/packages/fluxter)** — Unofficial AUR package for [fluxter](https://github.com/AIVirtuoso/fluxter), the TUI Fluxer client
 - 📦 **[tardigrade-aur](https://aur.archlinux.org/packages/tardigrade)** — Unofficial AUR package for [tardigrade](https://github.com/smoothyy3/tardigrade), the self-healing terminal creature
-
-### Desktop
-
-- 📁 **[optionFiles](https://github.com/fireflylabss/optionFiles)** — Terminal file management with as little friction as possible
-- 🔎 **[optionSearch](https://github.com/fireflylabss/optionSearch)** — Instant, local-first Linux file search: CLI + GTK
 
 ### Experiments & Personal
 
@@ -82,13 +71,18 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 ### Deprecated
 
 <details>
-<summary>Superseded & archived (optionTerm, aire, opsh)</summary>
+<summary>Superseded & archived (aire, opsh)</summary>
 
-- ⌨️ **[optionTerm](https://github.com/fireflylabss/optionTerm)** — GTK4 terminal (superseded)
 - ✍️ **[aire](https://github.com/fireflylabss/aire)** — Writing without distractions (deprecated)
 - 🧭 **[opsh](https://github.com/fireflylabss/opsh)** — Small local-first shell in Rust (archived)
 
 </details>
+
+## Contributed
+
+- 🖥️ **[Emanuele-web04/synara](https://github.com/Emanuele-web04/synara)** — Web and Linux fixes across the Synara app; recurring contributor
+- 🧠 **[alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** — JSONC configuration support and native Antigravity provider
+- 🌍 **[globaloficial/global](https://github.com/globaloficial/global)** — Licensing cleanup with PolyForm Noncommercial
 
 ## Connect
 
