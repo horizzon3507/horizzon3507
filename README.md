@@ -80,9 +80,9 @@ Building around **[aspaslabs.com](https://aspaslabs.com)**. Tools that feel like
 
 ## Contributed
 
-- 🖥️ **[Emanuele-web04/synara](https://github.com/Emanuele-web04/synara)** — Web and Linux fixes across the Synara app; recurring contributor
+- <img src="https://raw.githubusercontent.com/Emanuele-web04/synara/main/apps/marketing/public/synara-icon.png" width="18" align="middle" alt="synara"> **[Emanuele-web04/synara](https://github.com/Emanuele-web04/synara)** — Web and Linux fixes across the Synara app; recurring contributor
 - 🧠 **[alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** — JSONC configuration support and native Antigravity provider
-- 🌍 **[globaloficial/global](https://github.com/globaloficial/global)** — Licensing cleanup with PolyForm Noncommercial
+- <img src="https://raw.githubusercontent.com/globaloficial/global_site/main/assets/global.png" width="18" align="middle" alt="global"> **[globaloficial/global](https://github.com/globaloficial/global)** — Licensing cleanup with PolyForm Noncommercial
 
 ## Connect
 
